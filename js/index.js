@@ -13,12 +13,9 @@ window.addEventListener('DOMContentLoaded', () => {
               <img src="${imagen}" alt="${categoria}" width="128"
                 height="128" class="card__img" />
               <h2 class="card__title">
-                ${categoria}
-                <sup>${subcategoria}</sup>
-              </h2>
-              <p class="card__text">
                 ${marca}
-              </p>
+                <h3>${subcategoria}</h3>
+              </h2>              
               <ul class="card__text">
                 ${procesador}
               </ul>
@@ -37,7 +34,10 @@ window.addEventListener('DOMContentLoaded', () => {
               <ul class="card__text">
                 ${otros}
               </ul>
-            </div>
+              <div>
+                <button class="card__title">Comprar</button>
+              </div>
+            </div>            
           </div>
         `;
       });
