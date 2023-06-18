@@ -1,7 +1,7 @@
 'use strict';
 
 window.addEventListener('DOMContentLoaded', () => {
-  fetch('https://elliotgaramendi.github.io/web-development-tecsup/g21/semana7/alumnos-felices/json/students.json')
+  fetch('https://silviacht.github.io/computadoras/json/students.json')
     .then(response => response.json())
     .then(data => {
       const studentCards = document.getElementById('studentCards');
@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', () => {
         studentCards.innerHTML += `
           <div class="card" key=${index}>
             <div class="card__body">
-              <img src="${image || 'https://emojitool.com/img/whatsapp/2.20.198.15/boar-1943.png'}" alt="${name}" width="128"
+              <img src="${imagen}" alt="${categoria}" width="128"
                 height="128" class="card__img" />
               <h2 class="card__title">
                 ${categoria}

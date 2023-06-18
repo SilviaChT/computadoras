@@ -3,52 +3,52 @@
     "id": 1,
     "categoria": "Computadoras",
     "subcategoria": "Computadora de Escritorio",
-    "Marca": "HP PAVILION",
+    "marca": "HP PAVILION",
     "procesador": "Core i7",
     "memoria": "8GB RAM",
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/2STXWXm",
+    "imagen":"https://i.ibb.co/r3VnFnT/acer.jpg",
     "otros": "" 
   },
   {
     "id": 2,
     "categoria": "Computadoras",
     "subcategoria": "Computadora de Escritorio",
-    "Marca": "ACCER",
+    "marca": "ACCER",
     "procesador": "Core i7",
     "memoria": "8GB RAM",
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/cJZ63gp",
+    "imagen":"https://i.ibb.co/jhQyf6x/advance.jpg",
     "otros": "" 
   },
   {
     "id": 3,
     "categoria": "Computadoras",
     "subcategoria": "Computadora de Escritorio",
-    "Marca": "ADVANCE",
+    "marca": "ADVANCE",
     "procesador": "Core i7",
     "memoria": "8GB RAM",
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/HVZRHz5",
+    "imagen":"https://i.ibb.co/kxZzS8N/apple.jpg",
     "otros": "" 
   },
   {
     "id": 4,
     "categoria": "Computadoras",
     "subcategoria": "Computadora de Escritorio",
-    "Marca": "APPLE",
+    "marca": "APPLE",
     "procesador": "Core i7",
     "memoria": "8GB RAM",
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/fnY5MXg",
+    "imagen":"https://i.ibb.co/BrVxLfp/dell.jpg",
     "otros": "" 
   },
   {
@@ -61,7 +61,7 @@
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/9Z9GgJ1",
+    "imagen":"https://i.ibb.co/jJvHfdQ/hp1.jpg",
     "otros": "" 
   },
   {
@@ -74,7 +74,7 @@
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/fGM5gRZ",
+    "imagen":"https://i.ibb.co/5xTy0DC/huawei.jpg",
     "otros": "" 
   },
   {
@@ -87,7 +87,7 @@
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/RY0w0kf",
+    "imagen":"https://i.ibb.co/YPkskFm/lenovo.jpg",
     "otros": "" 
   },
   {
@@ -100,7 +100,7 @@
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/GVyJWjs",
+    "imagen":"https://i.ibb.co/0fTXC3B/lg.jpg",
     "otros": "" 
   },
   {
@@ -113,7 +113,7 @@
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/ygZVFXX",
+    "imagen":"https://i.ibb.co/BTQw2tt/samsung.jpg",
     "otros": "" 
   },
   {
@@ -126,7 +126,7 @@
     "discoduro": "256 GB DISCO SOLIDO SSD",
     "color": "Plateado",
     "precio": "5000",
-    "imagen":"https://ibb.co/2STXWXm",
+    "imagen":"https://i.ibb.co/r3VnFnT/acer.jpg",
     "otros": "" 
   }  
 ]
